@@ -1,2 +1,2 @@
 # DailyCodingProblem
-Problems from dailycodingproblem.com
+Problems taken from dailycodingproblem.com
